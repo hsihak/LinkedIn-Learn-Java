@@ -1,0 +1,24 @@
+Data Types in Java
+~~~~~~~~~~~~~~~~~~~~~~~
+-------------------
+| Primitive Types |
+-------------------
+
+- Boolean
+- Int
+- Double
+- Char
+
+
+-------------------
+| Reference Types |
+-------------------
+- String: a sequence of ordered characters - created out of characters
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------
+| Special Operations |
+----------------------
+- charAt - a special string operation allows us to access a character a specific location within the string
